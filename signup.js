@@ -1,0 +1,1 @@
+var scoket = io.connect();
